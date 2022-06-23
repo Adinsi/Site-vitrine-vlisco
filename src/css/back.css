@@ -1,0 +1,58 @@
+.back{
+    background-image: url('../../public/nor.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 200px;
+    max-height: 500px;
+    object-fit: cover;
+}
+
+ .button {
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+}
+.button button{
+    color: rgb(68, 149, 149);
+    background-color: beige;
+    font-size: 1.2rem;
+    width: auto;
+    height: auto;
+    border: none;
+    padding: 10px;
+    position: relative;
+    top: 15px
+
+   
+   ;
+
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texteContent h1{
+    
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+.texteContent h2{
+    
+    text-align: center;
+    position: relative;
+    top: 10px;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(235, 143, 112);
+
+}
