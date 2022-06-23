@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WoodinHousse/static/css/main.da5749db.css",
+    "main.js": "/WoodinHousse/static/js/main.3f9dd801.js",
+    "static/media/nor.jpg": "/WoodinHousse/static/media/nor.dbd85467f6e73424f0ff.jpg",
+    "index.html": "/WoodinHousse/index.html",
+    "main.da5749db.css.map": "/WoodinHousse/static/css/main.da5749db.css.map",
+    "main.3f9dd801.js.map": "/WoodinHousse/static/js/main.3f9dd801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da5749db.css",
+    "static/js/main.3f9dd801.js"
+  ]
+}
